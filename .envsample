@@ -1,0 +1,3 @@
+MONGODB_URI = 'mongodb+srv://Abikem01:Abikem01Abikem01@cluster0.kzbzior.mongodb.net/projectA?retryWrites=true&w=majority'
+PORT =4000
+JWTSECRET = "SECRET_12345"
